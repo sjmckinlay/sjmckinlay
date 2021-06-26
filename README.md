@@ -2,7 +2,7 @@
 - 👀 I’m interested in pursuing a statistical and data analysis career.
 - 🌱 I’m currently continuing pet projects on studying the germination of an endangered plant species, and pathfinding in JavaScript and R for hiking trail customization.
 - 💞️ I’m looking to collaborate in the future on projects that make the world a better place.
-- 📫 I can be reached at @mckinlay-sj on twitter.
+- 📫 I can be reached at @mckinlay_sj on twitter.
 
 <!---
 sjmckinlay/sjmckinlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
