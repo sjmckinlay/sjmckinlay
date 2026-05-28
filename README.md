@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjmckinlay
 - 👀 I’m interested in pursuing a statistical and data analysis career.
-- 🌱 I’m currently continuing pet projects on studying the germination of an endangered plant species, a tea minigame in Java, and pathfinding in R for hiking trail customization.
+- 🌱 I’m currently continuing pet projects on translating visual images into routing designs for tablet weaving, learning morse code, and pathfinding in R for hiking trail customization. Previous projects include studying the germination of an endangered plant species, and creating a tea minigame in Java.
 - 💞️ I’m looking to collaborate in the future on projects that make the world a better place.
 - 📫 I can be reached at @mckinlay_sj on twitter.
 
